@@ -1,0 +1,2453 @@
+{
+  "version": {
+    "json_export": "185",
+    "page_segmentation": "5",
+    "schema": "1.1.0",
+    "structure": "1.1022.0",
+    "table_structure": "5"
+  },
+  "extended_metadata": {
+    "ID_instance": "DA 00 E0 BD D7 B6 B2 11 0A 00 67 45 8B 6B C6 23 ",
+    "ID_permanent": "36 32 20 33 31 20 44 37 20 42 44 20 44 37 20 42 36 20 42 32 20 31 31 20 30 41 20 30 30 20 36 37 20 34 35 20 38 42 20 36 42 20 43 36 20 32 33 20 ",
+    "pdf_version": "1.6",
+    "pdfa_compliance_level": "",
+    "is_encrypted": false,
+    "has_acroform": false,
+    "is_digitally_signed": false,
+    "pdfua_compliance_level": "",
+    "page_count": 1,
+    "has_embedded_files": false,
+    "is_certified": false,
+    "is_XFA": false,
+    "language": "en"
+  },
+  "elements": [
+    {
+      "Bounds": [0, -0.0035400390625, 464.40907287597656, 670.5637969970703],
+      "ClipBounds": [
+        36.1090087890625, 541.4349975585938, 170.64401245117188,
+        643.0910034179688
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Aside/Figure",
+      "attributes": {
+        "BBox": [
+          36.35849999999846, 541.6849999999977, 170.3929999999964,
+          642.8409999999858
+        ],
+        "Placement": "Block"
+      }
+    },
+    {
+      "Bounds": [
+        35.279998779296875, 530.2283935546875, 173.85997009277344,
+        539.1683959960938
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3376",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Aside/P",
+      "Text": "Al Moaserat Mineral Drinking Water Supply LLC ",
+      "TextSize": 10,
+      "attributes": { "LineHeight": 12 }
+    },
+    {
+      "Bounds": [
+        34.08000183105469, 497.2200012207031, 124.23422241210938,
+        515.7839965820312
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-Bold-3356",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Aside/P[2]",
+      "Text": "No. P • 3 5 5 Ł ",
+      "TextSize": 15,
+      "attributes": { "LineHeight": 18 }
+    },
+    {
+      "Bounds": [
+        307.67999267578125, 621.9335021972656, 409.5607147216797,
+        659.0469055175781
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI/LBody",
+      "Text": "Tel. : 06 748 5357 ",
+      "TextSize": 11
+    },
+    {
+      "Bounds": [
+        308.16600036621094, 607.4019012451172, 415.6852111816406,
+        643.7843933105469
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[2]/LBody/ParagraphSpan",
+      "Text": "Mob. : 055 579 5625 ",
+      "TextSize": 11
+    },
+    {
+      "Bounds": [
+        307.9129943847656, 592.4584045410156, 314.29100036621094,
+        628.681396484375
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[2]/LBody/L/LI/Lbl",
+      "Text": "P.",
+      "TextSize": 11
+    },
+    {
+      "Bounds": [
+        314.2909393310547, 592.4584045410156, 441.7168884277344,
+        628.681396484375
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[2]/LBody/L/LI/LBody",
+      "Text": "0.Box: 12964, Ajman. U.A.E. ",
+      "TextSize": 11
+    },
+    {
+      "Bounds": [
+        307.9129943847656, 577.4066009521484, 435.1396789550781,
+        613.7496032714844
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[3]/LBody",
+      "Text": "E-mail : info@almoaserat.ae ",
+      "TextSize": 11
+    },
+    {
+      "Bounds": [
+        307.43800354003906, 562.4089965820312, 436.15386962890625,
+        598.7519989013672
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/LBody/ParagraphSpan",
+      "Text": "Web : www.almoaserat.ae ",
+      "TextSize": 11
+    },
+    {
+      "Bounds": [
+        306.9600067138672, 550.2949981689453, 324.8751983642578,
+        564.4620056152344
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-Bold-3373",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/LBody/L/LI/Lbl",
+      "Text": "(9 ",
+      "TextSize": 15.5
+    },
+    {
+      "Bounds": [
+        327.8399963378906, 550.2949981689453, 429.853759765625,
+        564.4620056152344
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-Bold-3373",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Page": 0,
+      "Path": "//Document/Sect/L/LI[4]/LBody/L/LI/LBody",
+      "Text": "056 899 5399 ",
+      "TextSize": 15.5
+    },
+    {
+      "Bounds": [
+        188.39999389648438, 483.8019714355469, 299.4010314941406,
+        543.2429962158203
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P",
+      "Rotation": 358.55072021484375,
+      "Skew": -1.4492950439453125,
+      "Text": "ŁŁoJŁu rn!Ło!:ŁŁ!ŁŁ03 ",
+      "TextSize": 10.996475219726562,
+      "attributes": { "LineHeight": 34.875, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [
+        320.1580047607422, 480.81483459472656, 454.4380187988281,
+        522.83544921875
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[2]",
+      "Rotation": 358.55059814453125,
+      "Skew": -1.4494171142578125,
+      "Text": "Date 'o)t. Ł,Ł Ł_,i,i, ",
+      "TextSize": 10.996475219726562,
+      "attributes": { "LineHeight": 13.25, "TextAlign": "End" }
+    },
+    {
+      "Bounds": [
+        34.77839660644531, 455.8544006347656, 454.1809387207031,
+        493.6374053955078
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3349",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[3]",
+      "Text": "Mr./M/s.................................--·······J.1..... I.).Ł ..... G.WŁ-················· ..... ;;Łw1 I ŁI ",
+      "TextSize": 23,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [0, -0.0035400390625, 467.0281066894531, 670.5637969970703],
+      "ClipBounds": [
+        34.069000244140625, 90.05499267578125, 467.0281066894531,
+        471.2220001220703
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 90.5036, 464.38099999999395, 461.28899999998976
+        ],
+        "NumCol": 5,
+        "NumRow": 12,
+        "Placement": "Block",
+        "SpaceAfter": 6.125
+      }
+    },
+    {
+      "Bounds": [0, -0.0035400390625, 467.0281066894531, 670.5637969970703],
+      "ClipBounds": [
+        34.069000244140625, 431.5108947753906, 467.0281066894531,
+        471.2220001220703
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 433.8099999999977, 464.38099999999395,
+          461.28899999998976
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 5,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 0,
+        "Width": 430.125
+      }
+    },
+    {
+      "Bounds": [0, -0.0035400390625, 464.40907287597656, 670.5637969970703],
+      "ClipBounds": [
+        34.069000244140625, 431.5189971923828, 462.947998046875,
+        471.2220001220703
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TD/Figure",
+      "attributes": {
+        "BBox": [
+          34.318599999998696, 434.8899999999994, 456.7009999999864,
+          461.04899999999907
+        ],
+        "Placement": "Block",
+        "Suspicion": "{ \"suspicious\" : true, \"reason\" : \"inlineFormula\" }",
+        "SuspicionFBName": "region-inlineFormula",
+        "Suspicious": true
+      }
+    },
+    {
+      "Bounds": [
+        73.67999267578125, 431.5108947753906, 467.0281066894531,
+        468.0939025878906
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR/TD/P",
+      "Text": ". •······•-·-·· ·• •-·• . ,_, ,__Ł,_, Ł---······Ł--·••-•·••·· .. •,.\"•-·· ..······ _...... ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [37.91999816894531, 404, 70.032470703125, 430.3704071044922],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 403.33099999999104, 68.75719999999637,
+          433.8099999999977
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 0,
+        "Height": 30.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        43.67999267578125, 415.4398956298828, 62.3892822265625,
+        430.3704071044922
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3369",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH/P",
+      "Text": "Ł->11 ",
+      "TextSize": 9.5,
+      "attributes": { "LineHeight": 11.375 }
+    },
+    {
+      "Bounds": [37.91999816894531, 404, 70.032470703125, 414.3269958496094],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH/P[2]",
+      "Text": "SI.No. ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        131.27699279785156, 405.94349670410156, 187.82679748535156,
+        446.8271942138672
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 403.33099999999104, 248.38999999999942,
+          433.8099999999977
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 30.5,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        136.55999755859375, 408.2642059326172, 180.62652587890625,
+        446.8271942138672
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[2]/P",
+      "Text": "J.+.-u.:ll ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        131.27699279785156, 405.94349670410156, 187.82679748535156,
+        416.27049255371094
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[2]/P[2]",
+      "Text": "Description ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        261.6000061035156, 406.15049743652344, 287.28843688964844,
+        446.86199951171875
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 403.33099999999104, 297.5879999999888,
+          433.8099999999977
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 2,
+        "Height": 30.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 49.25
+      }
+    },
+    {
+      "Bounds": [
+        261.6000061035156, 410.6390075683594, 287.28843688964844,
+        446.86199951171875
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[3]/P",
+      "Text": "ŁI ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        263.2740020751953, 406.15049743652344, 284.85948181152344,
+        416.4774932861328
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[3]/P[2]",
+      "Text": "Qty. ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        309.1199951171875, 406.2539978027344, 358.9078369140625, 446.8623046875
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 403.33099999999104, 370.0649999999878,
+          433.8099999999977
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 30.5,
+        "InlineAlign": "Start",
+        "RowIndex": 1,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        309.1199951171875, 410.6390075683594, 358.3664093017578, 446.8623046875
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[4]/P",
+      "Text": ":i..i>ŁIŁI ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        310.07899475097656, 406.2539978027344, 358.9078369140625,
+        416.58099365234375
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[4]/P[2]",
+      "Text": "Unit Price ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        391.1999969482422, 406.27699279785156, 432.3343963623047,
+        426.6080017089844
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 403.33099999999104, 461.2609999999986,
+          433.8099999999977
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 4,
+        "Height": 30.5,
+        "InlineAlign": "Center",
+        "RowIndex": 1,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        400.8000030517578, 415.79200744628906, 425.2377471923828,
+        426.6080017089844
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3368",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[5]/P",
+      "Text": "F' ",
+      "TextSize": 16,
+      "attributes": { "LineHeight": 19.25 }
+    },
+    {
+      "Bounds": [
+        391.1999969482422, 406.27699279785156, 432.3343963623047,
+        416.60400390625
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[2]/TH[5]/P[2]",
+      "Text": "Amount ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        47.279998779296875, 376.85899353027344, 54.294036865234375,
+        413.0820007324219
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 377.29199999998673, 68.75719999999637,
+          403.33099999999104
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 2,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.279998779296875, 376.85899353027344, 54.294036865234375,
+        413.0820007324219
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD/P",
+      "Text": "1 ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 377.1667938232422, 218.0518035888672,
+        413.4497985839844
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 377.29199999998673, 248.38999999999942,
+          403.33099999999104
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 377.1667938232422, 218.0518035888672,
+        413.4497985839844
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[3]/TD[2]/P",
+      "Text": "Al Moaserat Water (1.5 ltr x 6) ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[3]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 377.29199999998673, 297.5879999999888,
+          403.33099999999104
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 2,
+        "Width": 49.25
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[3]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 377.29199999998673, 370.0649999999878,
+          403.33099999999104
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 2,
+        "Width": 72.5
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[3]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 377.29199999998673, 461.2609999999986,
+          403.33099999999104
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 2,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        47.52000427246094, 350.45899963378906, 54.09968566894531,
+        386.6820068359375
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 351.252999999997, 68.75719999999637,
+          377.29199999998673
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.52000427246094, 350.45899963378906, 54.09968566894531,
+        386.6820068359375
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD/P",
+      "Text": "2 ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        78.96000671386719, 350.7010955810547, 226.1663360595703,
+        386.9241027832031
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 351.252999999997, 248.38999999999942,
+          377.29199999998673
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        78.96000671386719, 350.7010955810547, 226.1663360595703,
+        386.9241027832031
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[4]/TD[2]/P",
+      "Text": "Al Moaserat Water (500ml x 12) ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[4]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 351.252999999997, 297.5879999999888,
+          377.29199999998673
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 3,
+        "Width": 49.25
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[4]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 351.252999999997, 370.0649999999878,
+          377.29199999998673
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "Width": 72.5
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[4]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 351.252999999997, 461.2609999999986,
+          377.29199999998673
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 3,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        47.52000427246094, 324.1790008544922, 54.08406066894531,
+        360.40199279785156
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 325.21399999999267, 68.75719999999637,
+          351.252999999997
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 4,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.52000427246094, 324.1790008544922, 54.08406066894531,
+        360.40199279785156
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD/P",
+      "Text": "3 ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 324.2012023925781, 226.3596954345703,
+        360.54420471191406
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 325.21399999999267, 248.38999999999942,
+          351.252999999997
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 324.2012023925781, 226.3596954345703,
+        360.54420471191406
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[2]/P",
+      "Text": "Al Moaserat Water (330ml x 12) ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        260.3999938964844, 323.2458953857422, 284.6615905761719,
+        348.53089904785156
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 325.21399999999267, 297.5879999999888,
+          351.252999999997
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 2,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 4,
+        "Width": 49.25
+      }
+    },
+    {
+      "Bounds": [
+        281.52000427246094, 331.10589599609375, 284.6615905761719,
+        348.53089904785156
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-BoldItalic-3367",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[3]/P",
+      "Text": ". ",
+      "TextSize": 17,
+      "attributes": { "LineHeight": 20.375 }
+    },
+    {
+      "Bounds": [
+        268.55999755859375, 327.44590759277344, 277.6743621826172,
+        344.8708953857422
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-BoldItalic-3367",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[3]/P[2]",
+      "Text": "e;",
+      "TextSize": 17,
+      "attributes": { "LineHeight": 20.375 }
+    },
+    {
+      "Bounds": [
+        260.3999938964844, 323.2458953857422, 263.9994354248047, 340.6708984375
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-BoldItalic-3367",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[3]/P[3]",
+      "Text": "l",
+      "TextSize": 17,
+      "attributes": { "LineHeight": 20.375 }
+    },
+    {
+      "Bounds": [
+        306.47999572753906, 324.74119567871094, 358.1300048828125,
+        338.24208068847656
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 325.21399999999267, 370.0649999999878,
+          351.252999999997
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 3,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 4,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        306.47999572753906, 324.74119567871094, 358.1300048828125,
+        338.24208068847656
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3355",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[4]/P",
+      "Rotation": 0.06304931640625,
+      "Skew": 0.06304931640625,
+      "Text": "Łs \"d-b° ",
+      "TextSize": 16.999984741210938,
+      "attributes": { "LineHeight": 31.25 }
+    },
+    {
+      "Bounds": [
+        377.2799987792969, 326.8800048828125, 445.12721252441406,
+        340.343994140625
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 325.21399999999267, 461.2609999999986,
+          351.252999999997
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 4,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 4,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        377.2799987792969, 326.8800048828125, 445.12721252441406,
+        340.343994140625
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3355",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[5]/TD[5]/P",
+      "Text": "2=>Ł·57:? ",
+      "TextSize": 17,
+      "attributes": { "LineHeight": 20.375 }
+    },
+    {
+      "Bounds": [
+        47.03999328613281, 297.83900451660156, 54.947113037109375,
+        334.06199645996094
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 299.054999999993, 68.75719999999637,
+          325.21399999999267
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 26.125,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.03999328613281, 297.83900451660156, 54.947113037109375,
+        334.06199645996094
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD/P",
+      "Text": "4 ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 297.83900451660156, 225.68023681640625,
+        334.06199645996094
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 299.054999999993, 248.38999999999942,
+          325.21399999999267
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 26.125,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 297.83900451660156, 225.68023681640625,
+        334.06199645996094
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[2]/P",
+      "Text": "Al Moaserat Water (250ml x 24) ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[6]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 299.054999999993, 297.5879999999888,
+          325.21399999999267
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 26.125,
+        "InlineAlign": "Start",
+        "RowIndex": 5,
+        "Width": 49.25
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[6]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 299.054999999993, 370.0649999999878,
+          325.21399999999267
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 26.125,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        415.67999267578125, 298.4239959716797, 421.84619140625,
+        305.6320037841797
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 299.054999999993, 461.2609999999986,
+          325.21399999999267
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 4,
+        "Height": 26.125,
+        "InlineAlign": "Center",
+        "RowIndex": 5,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        415.67999267578125, 298.4239959716797, 421.84619140625,
+        305.6320037841797
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3365",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[6]/TD[5]/P",
+      "Text": "\\ ",
+      "TextSize": 8,
+      "attributes": { "LineHeight": 9.625 }
+    },
+    {
+      "Bounds": [
+        47.279998779296875, 271.3789978027344, 54.21296691894531,
+        307.6020050048828
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 273.0159999999887, 68.75719999999637,
+          299.054999999993
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 6,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.279998779296875, 271.3789978027344, 54.21296691894531,
+        307.6020050048828
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD/P",
+      "Text": "5 ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 271.4389953613281, 230.7860565185547,
+        307.78199768066406
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 273.0159999999887, 248.38999999999942,
+          299.054999999993
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        78.72000122070312, 271.4389953613281, 230.7860565185547,
+        307.78199768066406
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[2]/P",
+      "Text": "Al Moaserat Water (200cup x 30) ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[7]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 273.0159999999887, 297.5879999999888,
+          299.054999999993
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 6,
+        "Width": 49.25
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[7]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 273.0159999999887, 370.0649999999878,
+          299.054999999993
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 6,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        413.52000427246094, 269.8159942626953, 428.01332092285156,
+        297.9459991455078
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 271.45599999999104, 461.2609999999986,
+          299.054999999993
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 27.625,
+        "InlineAlign": "Center",
+        "RowIndex": 6,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        413.52000427246094, 269.8159942626953, 428.01332092285156,
+        297.9459991455078
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-Italic-3361",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[7]/TD[5]/P",
+      "Text": "} ",
+      "TextSize": 29,
+      "attributes": { "LineHeight": 34.75 }
+    },
+    {
+      "Bounds": [
+        47.03999328613281, 254.26800537109375, 55.32000732421875,
+        262.67999267578125
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 246.97699999999895, 68.75719999999637,
+          273.0159999999887
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 0,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 7,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.03999328613281, 254.26800537109375, 55.32000732421875,
+        262.67999267578125
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3363",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD/P",
+      "Text": "6 ",
+      "TextSize": 12,
+      "attributes": { "LineHeight": 14.375 }
+    },
+    {
+      "Bounds": [
+        79.19999694824219, 244.97900390625, 183.9738311767578,
+        281.32200622558594
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 246.97699999999895, 248.38999999999942,
+          273.0159999999887
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 1,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        79.19999694824219, 244.97900390625, 183.9738311767578,
+        281.32200622558594
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[2]/P",
+      "Text": "5 Gallon Bottled Water ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[8]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 246.97699999999895, 297.5879999999888,
+          273.0159999999887
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 26,
+        "InlineAlign": "Start",
+        "RowIndex": 7,
+        "Width": 49.25
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[8]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 246.97699999999895, 370.0649999999878,
+          273.0159999999887
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 26,
+        "InlineAlign": "Center",
+        "RowIndex": 7,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        405.1199951171875, 245.61000061035156, 421.9488983154297,
+        271.0800018310547
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 245.53699999999662, 461.2609999999986,
+          273.0159999999887
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 4,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 7,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        405.1199951171875, 245.61000061035156, 421.9488983154297,
+        271.0800018310547
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-Italic-3364",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[8]/TD[5]/P",
+      "Text": "I ",
+      "TextSize": 30,
+      "attributes": { "LineHeight": 36 }
+    },
+    {
+      "Bounds": [
+        47.52000427246094, 228.10800170898438, 55.04730224609375,
+        236.52000427246094
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 167.29999999999563, 68.75719999999637,
+          246.97699999999895
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "Height": 79.625,
+        "InlineAlign": "Center",
+        "RowIndex": 8,
+        "Width": 34.625
+      }
+    },
+    {
+      "Bounds": [
+        47.52000427246094, 228.10800170898438, 55.04730224609375,
+        236.52000427246094
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3363",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD/P",
+      "Text": "7 ",
+      "TextSize": 12,
+      "attributes": { "LineHeight": 14.375 }
+    },
+    {
+      "Bounds": [
+        78.96000671386719, 218.62579345703125, 183.59056091308594,
+        254.90879821777344
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD[2]",
+      "attributes": {
+        "BBox": [
+          68.75719999999637, 167.29999999999563, 248.38999999999942,
+          246.97699999999895
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 1,
+        "Height": 79.625,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 179.625
+      }
+    },
+    {
+      "Bounds": [
+        78.96000671386719, 218.62579345703125, 183.59056091308594,
+        254.90879821777344
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD[2]/P",
+      "Text": "4 Gallon Bottled Water ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[9]/TD[3]",
+      "attributes": {
+        "BBox": [
+          248.38999999999942, 167.29999999999563, 297.5879999999888,
+          246.97699999999895
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 2,
+        "Height": 79.625,
+        "InlineAlign": "Start",
+        "RowIndex": 8,
+        "Width": 49.25
+      }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[9]/TD[4]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 167.29999999999563, 370.0649999999878,
+          246.97699999999895
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 3,
+        "Height": 79.625,
+        "InlineAlign": "Center",
+        "RowIndex": 8,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        403.67999267578125, 222.33900451660156, 416.7956848144531,
+        245.1750030517578
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD[5]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 167.29999999999563, 461.2609999999986,
+          246.97699999999895
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 4,
+        "Height": 79.625,
+        "InlineAlign": "Center",
+        "RowIndex": 8,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        403.67999267578125, 222.33900451660156, 416.7956848144531,
+        245.1750030517578
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-3362",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[9]/TD[5]/P",
+      "Text": "l ",
+      "TextSize": 33,
+      "attributes": { "LineHeight": 39.625 }
+    },
+    {
+      "Bounds": [
+        46.32000732421875, 130.37899780273438, 91.6138916015625,
+        166.6020050048828
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 139.82199999999284, 297.5879999999888,
+          167.29999999999563
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 0,
+        "ColSpan": 3,
+        "Height": 27.5,
+        "InlineAlign": "Start",
+        "RowIndex": 9,
+        "Width": 263.5
+      }
+    },
+    {
+      "Bounds": [
+        46.32000732421875, 130.37899780273438, 91.6138916015625,
+        166.6020050048828
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD/P",
+      "Text": "Total Ohs ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [312, 147.85009765625, 357.52857971191406, 158.17709350585938],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD[2]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 139.82199999999284, 370.0649999999878,
+          167.29999999999563
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 9,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [312, 147.85009765625, 357.52857971191406, 158.17709350585938],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD[2]/P",
+      "Text": "Sub Total ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        373.1999969482422, 142.81280517578125, 437.2681121826172,
+        170.9427947998047
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD[3]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 139.82199999999284, 461.2609999999986,
+          167.29999999999563
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 4,
+        "Height": 27.5,
+        "InlineAlign": "Center",
+        "RowIndex": 9,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        373.1999969482422, 142.81280517578125, 437.2681121826172,
+        170.9427947998047
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-Italic-3359",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[10]/TD[3]/P",
+      "Text": ":sŁ .. q b-",
+      "TextSize": 17,
+      "attributes": { "LineHeight": 34.75 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[11]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 113.66299999999683, 297.5879999999888,
+          139.82199999999284
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 3,
+        "Height": 26.125,
+        "InlineAlign": "Start",
+        "RowIndex": 10,
+        "Width": 263.5
+      }
+    },
+    {
+      "Bounds": [
+        316.0800018310547, 120.94340515136719, 354.45556640625,
+        131.27040100097656
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[2]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 113.66299999999683, 370.0649999999878,
+          139.82199999999284
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 26.125,
+        "InlineAlign": "Center",
+        "RowIndex": 10,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        316.0800018310547, 120.94340515136719, 354.45556640625,
+        131.27040100097656
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[2]/P",
+      "Text": "VATS% ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        386.1600036621094, 118.28669738769531, 449.45635986328125,
+        130.09469604492188
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 113.66299999999683, 461.2609999999986,
+          139.82199999999284
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 4,
+        "Height": 26.125,
+        "InlineAlign": "Center",
+        "RowIndex": 10,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        386.1600036621094, 118.28669738769531, 449.45635986328125,
+        130.09469604492188
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Times New Roman-Bold-3360",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[11]/TD[3]/P",
+      "Text": "l--ŁŁ ",
+      "TextSize": 18,
+      "attributes": { "LineHeight": 21.625 }
+    },
+    {
+      "Path": "//Document/Sect/Table/TR[12]/TD",
+      "attributes": {
+        "BBox": [
+          34.078599999998914, 90.5036, 297.5879999999888, 113.66299999999683
+        ],
+        "BlockAlign": "Before",
+        "ColIndex": 0,
+        "ColSpan": 3,
+        "Height": 23.125,
+        "InlineAlign": "Start",
+        "RowIndex": 11,
+        "Width": 263.5
+      }
+    },
+    {
+      "Bounds": [
+        304.0800018310547, 94.09280395507812, 365.7529296875, 104.4197998046875
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD[2]",
+      "attributes": {
+        "BBox": [
+          297.5879999999888, 90.5036, 370.0649999999878, 113.66299999999683
+        ],
+        "BlockAlign": "Middle",
+        "ColIndex": 3,
+        "Height": 23.125,
+        "InlineAlign": "Center",
+        "RowIndex": 11,
+        "Width": 72.5
+      }
+    },
+    {
+      "Bounds": [
+        304.0800018310547, 94.09280395507812, 365.7529296875, 104.4197998046875
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-Bold-3375",
+        "subset": false,
+        "weight": 700
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD[2]/P",
+      "Text": "Total Amount ",
+      "TextSize": 11.5,
+      "attributes": { "LineHeight": 13.75 }
+    },
+    {
+      "Bounds": [
+        374.8800048828125, 90.05499267578125, 432.12603759765625,
+        103.80499267578125
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD[3]",
+      "attributes": {
+        "BBox": [
+          370.0649999999878, 90.5036, 461.2609999999986, 113.66299999999683
+        ],
+        "BlockAlign": "After",
+        "ColIndex": 4,
+        "Height": 23.125,
+        "InlineAlign": "Center",
+        "RowIndex": 11,
+        "Width": 91.25
+      }
+    },
+    {
+      "Bounds": [
+        374.8800048828125, 90.05499267578125, 432.12603759765625,
+        103.80499267578125
+      ],
+      "Font": {
+        "alt_family_name": "* Times New Roman",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Times New Roman",
+        "font_type": "CIDFontType0",
+        "italic": true,
+        "monospaced": false,
+        "name": "*Times New Roman-Italic-3359",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/Table/TR[12]/TD[3]/P",
+      "Text": "3Ł ,52) ",
+      "TextSize": 17,
+      "attributes": { "LineHeight": 20.375 }
+    },
+    {
+      "Bounds": [
+        33.36000061035156, 35.51899719238281, 171.80430603027344,
+        71.98199462890625
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[4]",
+      "Text": "Salesman: ______ ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        33.600006103515625, 16.619293212890625, 58.789764404296875,
+        52.84230041503906
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[5]",
+      "Text": "Mob.: ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        106.08000183105469, 16.319305419921875, 121.92039489746094,
+        52.54229736328125
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[6]",
+      "Text": "_",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25 }
+    },
+    {
+      "Bounds": [
+        220.20359802246094, 18.718994140625, 293.0742492675781,
+        54.94200134277344
+      ],
+      "Font": {
+        "alt_family_name": "* Arial",
+        "embedded": true,
+        "encoding": "Identity-H",
+        "family_name": "* Arial",
+        "font_type": "CIDFontType0",
+        "italic": false,
+        "monospaced": false,
+        "name": "*Arial-3374",
+        "subset": false,
+        "weight": 400
+      },
+      "HasClip": false,
+      "Lang": "en",
+      "Page": 0,
+      "Path": "//Document/Sect/P[7]",
+      "Text": "Receiver's Sign. ",
+      "TextSize": 11,
+      "attributes": { "LineHeight": 13.25, "TextAlign": "Center" }
+    },
+    {
+      "Bounds": [0, -0.0035400390625, 464.40907287597656, 670.5637969970703],
+      "ClipBounds": [
+        346.656005859375, 21.736007690429688, 455.3919982910156,
+        67.71400451660156
+      ],
+      "Page": 0,
+      "Path": "//Document/Sect/Figure",
+      "attributes": {
+        "BBox": [
+          346.9059999999881, 21.986399999999776, 455.1409999999887,
+          67.46449999999822
+        ],
+        "Placement": "Block"
+      }
+    }
+  ],
+  "pages": [
+    {
+      "boxes": {
+        "CropBox": [0, 0, 464.3999938964844, 670.5599975585938],
+        "MediaBox": [0, 0, 464.3999938964844, 670.5599975585938]
+      },
+      "height": 670.5599975585938,
+      "is_scanned": true,
+      "page_number": 0,
+      "rotation": 0,
+      "width": 464.3999938964844
+    }
+  ]
+}
